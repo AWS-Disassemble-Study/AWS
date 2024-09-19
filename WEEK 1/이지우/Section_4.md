@@ -1,1 +1,2 @@
-[섹션4-1](https://velog.io/@wldnfl/AWS-Section-4-IAM-%EB%B0%8F-AWS-CLI)
+[섹션4-1](https://velog.io/@wldnfl/AWS-Section-4-IAM)
+[섹션4-2](https://velog.io/@wldnfl/AWS-Section-4-2-AWS-CLI)

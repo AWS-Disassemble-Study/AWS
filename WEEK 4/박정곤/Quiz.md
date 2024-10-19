@@ -23,3 +23,9 @@
 3) CloudWatch Alarms
 4) AWS CloudTrail
 5) CloudWatch Events
+
+### 5. CloudWatch 사용자 지정 지표를 사용할 때, 제일 길게 사용할 수 있는 시간은 얼마인가?
+1) 10초
+2) 30초
+3) 60초
+4) 5분
